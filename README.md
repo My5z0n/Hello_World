@@ -1,2 +1,5 @@
 # Hello_World
-First Repository. Just 4 fun ;) 
+
+Hello World!
+
+Myszon here. I love pizza.
